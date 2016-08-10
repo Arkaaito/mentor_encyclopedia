@@ -2,7 +2,6 @@
 
 1.  Check the appointment and make notes on what the student wants to talk about, review course materials or rubrics if you need to.
 2.  Email the student if you need more details, or any material that will help you prepare.
-3.  Read up on the student in the Student Manager. Check out the Notes and previous Submissions section.
 
 ### Videoconferencing setup {#videoconferencing-setup}
 
