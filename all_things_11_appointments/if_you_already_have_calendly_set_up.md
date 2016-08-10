@@ -2,6 +2,8 @@
 
 Please follow these instructions to switch over to the new system!
 
+**IMPORTANT: please do not make any changes to "When can people book this event?" in Calendly as it is shared by all Mentors on your team--use the settings page ONLY to change whether or not you are included in the round robin. Make all schedule changes on your personal calendar only, as outlined below.**
+
 1. Go to the calendar connected to your email account and block off all the times you will not be available (ie Google Calendar if you signed up with a Gmail account, etc.). Calendly communicates with your calendar in order to generate available times for appointments. Since Mentors are located all over the world, Calendly will search for available times 24 hours a day, so it is imperative that you keep your Calendar up-to-date.
 
     **Example:** If you do not want to take appointments between the hours of 8PM and 10AM in your timezone, create an event and label it something like ”Busy” or “Not taking appointments” for yourself. Calendly will know to mark you as Unavailable during those times.
