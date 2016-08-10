@@ -14,11 +14,11 @@ Please follow these instructions to switch over to the new system!
 
 2.  Click the gear icon next to each event type:
 
-    **Illegal HTML tag removed :** ![](DraggedImage-2.png)
+![](calendly1.png)
 
 3.  Click “Team Members and Location to trigger a drop-down:
 
-    **Illegal HTML tag removed :** ![](DraggedImage-3.png)
+![](calendly2.png)
 
     Check your name only if you want to take 1:1 appointments for that project. Under Location, input: `“We’ll be meeting on Zoom. Join here at your appointment time: [url]”` Instructions to set up your persistent Zoom URL can be found [here](https://drive.google.com/file/d/0B5bRk1eOyktZUEVKdk9BZFk3WkU/view?usp=sharing)!
 
