@@ -14,7 +14,7 @@ Currently, all posts in categories and subcategories of your designated Nanodegr
 
 **What are bonus posts?**
 
-Bonus posts are peer-nominated posts that are worth approximately 150% of a normal post. You can nominate yourself or your peers via the [Bonus Post Nomination Form].
+Bonus posts are peer-nominated posts that are worth approximately 150% of a normal post. You can nominate yourself or your peers via the [Bonus Post Nomination Form](https://goo.gl/forms/buwqXhoPOBx0ktkb2).
 
 **Who on the Udacity team should I contact if I have a question?**
 
