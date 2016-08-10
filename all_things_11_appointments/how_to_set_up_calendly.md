@@ -1,2 +1,2 @@
-# How to set up Calendly
+## How to set up Calendly
 
