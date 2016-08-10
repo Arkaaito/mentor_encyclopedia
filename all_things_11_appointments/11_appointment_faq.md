@@ -24,7 +24,7 @@ There will be students who show up late, or who don’t show up at all.  If a st
 > 
 > We missed you at your 1:1 appointment yesterday. Please schedule another time on the calendar here: https://calendly.com/(your link)
 > 
-> In the future please try to cancel appointments at least 24 hours in advance if you know that you won&#039;t be able to make it.
+> In the future please try to cancel appointments at least 24 hours in advance if you know that you won't be able to make it.
 > 
 > Thanks!
 
