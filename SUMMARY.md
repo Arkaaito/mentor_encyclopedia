@@ -1,7 +1,7 @@
 # Summary
 
 * [Forum Mentors Encyclopedia](README.md)
-* [All Things Forum Mentors](all_things_forum_mentors.md)
+* [All Things Forum Mentors](allthings_forum_mentors_md.md)
    * [Forum Mentors FAQ](forum_mentors_faq.md)
 * [All Things 1:1 Appointments](all_things_11_appointments/README.md)
    * [If you are a new 1:1 Mentor (have not conducted appointments via Calendly before)…](all_things_11_appointments/if_you_are_a_new_11_mentor_have_not_conducted_appo.md)
