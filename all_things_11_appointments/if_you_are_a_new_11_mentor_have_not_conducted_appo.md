@@ -18,12 +18,11 @@ Please follow these instructions to set up 1:1 appointments on Calendly, and let
 5.  Set which projects you are ready to conduct 1:1 appointments for by following these instructions:
 
     Click the gear icon and click “Edit”:
-
-    **Illegal HTML tag removed :** ![](DraggedImage.png)
+  ![](calendly1.png)
 
     Click “Team Members and Location” to trigger a drop-down:
 
-    ￼![](DraggedImage-1.png)
+![](calendly2.png)
 
 6.  Check your name if you are ready to begin taking 1:1 appointments for a particular project. If you are not yet comfortable helping students with that project make sure to uncheck the box next to your name so that you will not be included in the round robin.
 7.  Under Location, input: `“We’ll be meeting on Zoom. Join here at your appointment time: [url]”` Instructions to set up your persistent Zoom URL can be found [here](https://drive.google.com/file/d/0B5bRk1eOyktZUEVKdk9BZFk3WkU/view?usp=sharing)!
