@@ -24,3 +24,4 @@ Please follow these instructions to switch over to the new system!
 
 4.  Remember to save your changes!
 5.  Turn your individual event type to “Off”.
+6.  [Fill out this form](https://goo.gl/forms/gh8QmVMB3rE1E7cD2) to let Annie know you are ready to start conducting appointments.
