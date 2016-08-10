@@ -47,7 +47,7 @@ Here is the point-of-contact for each Nanodegree program; you can search for the
 
 **What is round robin, and how does it work?**
 
-_“Calendly&#039;s round-robin feature streamlines scheduling by letting an invitee instantly schedule with any available team member. This increases the chances of your invitee finding a convenient time.”_
+_“Calendly's round-robin feature streamlines scheduling by letting an invitee instantly schedule with any available team member. This increases the chances of your invitee finding a convenient time.”_
 
 For example, say that Annie, Jared, and Kelly all want to set up availability for 1:1 appointments, and these are the times they say they are available on their personal calendars:
 
