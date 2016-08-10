@@ -12,7 +12,7 @@ Payments are issued on or around the 15th of each month. If you are also a Forum
 
 **What happens if an appointment goes overtime?**
 
-In the 1:1 Appointment Self-Reporting form, we ask for the length of your appointment. We wish to be respectful of your time, which is why we encourage you to wind down after 30 minutes have passed. If the student still has questions, you can encourage them to post in the forums or schedule another meeting for the following week. It can be helpful to use the last 5 minutes or so of an appointment to
+In the 1:1 Appointment Self-Reporting form, we ask for the length of your appointment. We wish to be respectful of your time, which is why we encourage you to wind down after 30 minutes have passed. If the student still has questions, you can encourage them to post in the forums or schedule another meeting for the following week. It can be helpful to use the last 5 minutes or so of an appointment to set goals and action items for the student before their next appointment.
 
 In some cases, if it is determined that there was indeed a need for the appointment to go significantly over, we are happy to pay you the difference. Please reach out to your Nanodegree program’s Coach if you are uncertain as to whether your appointment qualifies for this exception.
 
