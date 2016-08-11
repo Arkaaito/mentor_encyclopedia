@@ -6,7 +6,7 @@ _*Note:* Program terms may change in the future as we continue to scale the prog
 
 **How do I get paid?**
 
-Forum Mentors are currently paid per post—the exact amount depends on the complexity level of the Nanodegree program. Payments are issued on or around the 15th of each month. If you are also a 1:1 Mentor or Code Reviewer, you may receive a lump sum in your Paypal.
+Forum Mentors are currently paid per post—the exact amount depends on the complexity level of the Nanodegree program. Payments are issued on or around the 15th of each month, and payment periods run from the 27th to 27th of each month. If you are also a 1:1 Mentor or Code Reviewer, you may receive a lump sum in your Paypal.
 
 **What qualifies as a paid post?**
 
