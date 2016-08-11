@@ -32,7 +32,7 @@ There will be students who show up late, or who don’t show up at all.  If a st
 
 There may be times, when actively engaging with a student on the forums, where you feel that more progress can be made via a one-on-one appointment. In this case, feel free to ask them if they would like to meet with you.
 
-All appointments must be logged on the self-reporting form!
+_All appointments must be logged on the self-reporting form!_
 
 **Who on the Udacity team should I contact if I have a question?**
 
