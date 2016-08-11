@@ -8,7 +8,7 @@ We currently pay $25/30-minute appointment. Please remember to fill out the [1:1
 
 **When do I get paid?**
 
-Payments are issued on or around the 15th of each month. If you are also a Forum Mentor or Code Reviewer, you may receive a lump sum in your Paypal.
+Payments are issued on or around the 15th of each month, and payment periods run from the 27th to 27th of each month. If you are also a Forum Mentor or Code Reviewer, you may receive a lump sum in your Paypal.
 
 **What happens if an appointment goes overtime?**
 
