@@ -30,7 +30,9 @@ There will be students who show up late, or who don’t show up at all.  If a st
 
 **What to do about impromptu meetings?**
 
-There may be times, when actively engaging with a student on the forums, where you feel that more progress can be made via a one-on-one appointment. In this case, feel free to ask them if they would like to meet with you.
+There may be times, when actively engaging with a student on the forums, where you feel that more progress can be made via a one-on-one appointment. In this case, feel free to ask them if they would like to meet with you and schedule the appointment organically.
+
+You may also choose to create a personal 30-minute event on Calendly that students can book with little to no lead time. You can do so by going to 'Event Types' and adding a Personal Event Type for a One-on-One appointment.
 
 _All appointments must be logged on the self-reporting form!_
 
