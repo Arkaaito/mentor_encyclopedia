@@ -1,6 +1,7 @@
 # Summary
 
 * [Forum Mentors Encyclopedia](README.md)
+   * Article 5
 * [Best Practices - MLND](Tips & Tricks/bestpractices_mlnd_md.md)
 * [Tips & Tricks](Forum Mentors Encyclopedia/tips_&_tricks.md)
 * [All Things Forum Mentors](all_things_forum_mentors/all_things_forum_mentors.md)
