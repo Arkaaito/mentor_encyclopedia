@@ -48,7 +48,7 @@ Here is the point-of-contact for each Nanodegree program; you can search for the
 *   **Data Analyst:** Stephen or Mike Y
 *   **iOS Developer/Beginning iOS Development:** Kate
 *   **Full Stack Web Developer:** Adarsh, Fuzz (if Ruby-specific)
-*   **Android Developer:** Horatio
+*   **Android Developer:** Aparna
 *   **Beginning Android Development:** Louis
 *   **Machine Learning Engineer:** Jared
 *   **Mentor Program/Logistics:** Annie, John, Miriam
