@@ -13,4 +13,5 @@
    * [The Appointment](all_things_11_appointments/the_appointment.md)
    * [Best Practices](all_things_11_appointments/best_practices.md)
    * [1:1 Appointment FAQ](all_things_11_appointments/11_appointment_faq.md)
+* chapter 5
 
