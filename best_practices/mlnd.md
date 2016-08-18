@@ -1,6 +1,4 @@
-# Best Practices - MLND
-
-# Best Practices - Machine Learning Engineer Nanodegree Program
+# Machine Learning Engineer Nanodegree Program Best Practices
 **NOTE: These guidelines are for the Machine Learning Engineer Nanodegree program only and have been added here for posterity. If you are a Mentor for other programs, please follow their guidelines, if any are in place. Your Nanodegree program's Coach can also help clarify questions pertinent to your specific program.**
 
 If a forum post is revived by a new student post (for instance, if the thread was last responded to several weeks ago), and the discussion is a continuation of the thread, it should be responded to as normal.
