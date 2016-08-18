@@ -2,7 +2,7 @@
 
 * [Forum Mentors Encyclopedia](README.md)
 * Tips & Tricks
-* [Best Practices - MLND](all_things_forum_mentors/best_practices.md)
+* [Best Practices - MLND](Tips & Tricks/best_practices_mlnd.md)
 * [All Things Forum Mentors](all_things_forum_mentors/all_things_forum_mentors.md)
    * [Using the Forums](all_things_forum_mentors/using_the_forums.md)
    * [Tools](all_things_forum_mentors/tools.md)
