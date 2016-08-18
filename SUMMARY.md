@@ -2,7 +2,7 @@
 
 * [Forum Mentors Encyclopedia](README.md)
 * [General Best Practices](Forum Mentors Encyclopedia/tips_&_tricks.md)
-   * [Machine Learning Engineer](Forum Mentors Encyclopedia/best_practices_-_mlnd.md)
+   * [Machine Learning Engineer](best_practices/mlnd.md)
 * [All Things Forum Mentors](all_things_forum_mentors/all_things_forum_mentors.md)
    * [Using the Forums](all_things_forum_mentors/using_the_forums.md)
    * [Tools](all_things_forum_mentors/tools.md)
