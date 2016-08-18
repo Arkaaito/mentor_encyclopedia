@@ -5,7 +5,7 @@
    * [Using the Forums](all_things_forum_mentors/using_the_forums.md)
    * [Tools](all_things_forum_mentors/tools.md)
    * [Forum Mentors FAQ](all_things_forum_mentors/forum_mentors_faq.md)
-   * [Best Practices](all_things_forum_mentors/best_practices.md)
+   * [Best Practices - MLND](all_things_forum_mentors/best_practices.md)
 * [All Things 1:1 Appointments](all_things_11_appointments/README.md)
    * [Calendly Set-Up: New Mentors](all_things_11_appointments/if_you_are_a_new_11_mentor_have_not_conducted_appo.md)
    * [Calendly Set-Up: Existing Calendly Users](all_things_11_appointments/if_you_already_have_calendly_set_up.md)
