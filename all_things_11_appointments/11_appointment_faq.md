@@ -15,7 +15,7 @@ Payments are issued on or around the 15th of each month, and payment periods run
 
 **Am I required to use Zoom.us?**
 
-After testing out several major videoconferencing platforms, Udacity staff decided that Zoom was the best option in terms of functionality. We encourage all Mentors to use Zoom so as to give students as standardized a scheduling experience as possible. However, if you find that Zoom's limitations are insurmountable for you, you can choose to offer appointments via another platform, such as Talky.io, Google Hangouts, Bluejeans, or Slack. Feel free to discuss the merits of each of these platforms with your fellow Mentors in the ```#1-on-1s``` channel.
+After testing out several major videoconferencing platforms, Udacity staff decided that Zoom was the best option in terms of functionality. We encourage all Mentors to use Zoom so as to give students as standardized a scheduling experience as possible. However, if you find that Zoom's limitations are insurmountable for your work, you can choose to offer appointments via another platform, such as Talky.io, Google Hangouts, Bluejeans, or Slack. Feel free to discuss the merits of each of these platforms with your fellow Mentors in the ```#1-on-1s``` channel.
 
 **What happens if an appointment goes overtime?**
 
