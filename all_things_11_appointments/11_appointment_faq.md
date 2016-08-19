@@ -13,6 +13,10 @@ We currently pay $25/30-minute appointment. Please remember to fill out the [1:1
 
 Payments are issued on or around the 15th of each month, and payment periods run from the 27th to 27th of each month. If you are also a Forum Mentor or Code Reviewer, you may receive a lump sum in your Paypal.
 
+**Am I required to use Zoom.us?**
+
+After testing out several major videoconferencing platforms, Udacity staff decided that Zoom was the best option in terms of functionality. We encourage all Mentors to use Zoom so as to give students as standardized a scheduling experience as possible. However, if you find that Zoom's limitations are insurmountable for you, you can choose to offer appointments via another platform, such as Talky.io, Google Hangouts, Bluejeans, or Slack. Feel free to discuss the merits of each of these platforms with your fellow Mentors in the ```#1-on-1s``` channel.
+
 **What happens if an appointment goes overtime?**
 
 In the 1:1 Appointment Self-Reporting form, we ask for the length of your appointment. We wish to be respectful of your time, which is why we encourage you to wind down after 30 minutes have passed. If the student still has questions, you can encourage them to post in the forums or schedule another meeting for the following week. It can be helpful to use the last 5 minutes or so of an appointment to set goals and action items for the student before their next appointment.
