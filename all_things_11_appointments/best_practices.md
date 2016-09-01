@@ -20,7 +20,7 @@ The way you approach your one-on-one appointments can have a big impact on your 
 
 ###Setting Expectations/Preventing Appointment Overtime
 
-For the benefit of both you and students, we ask that you keep one-on-one appointments to 30 minutes or less whenever possible. It is our policy to allocate one (1) 30-minute appointment to each student per week, so we want to set that expectation. Here are some strategies to help set proper expectations for how the time in an appointment will be used:
+For the benefit of both you and students, we ask that you keep one-on-one appointments to 30 minutes or less whenever possible. It is our policy to allocate one (1) 30-minute appointment to each student per week, so we want to maintain and enforce that expectation. Here are some strategies to help set proper expectations for how the time in an appointment will be used:
 
 * Let the student know that you are setting a timer at the beginning of the appointment. You can say something like this:
 
