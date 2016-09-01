@@ -21,6 +21,8 @@ After testing out several major videoconferencing platforms, Udacity staff decid
 
 In the 1:1 Appointment Self-Reporting form, we ask for the length of your appointment. We wish to be respectful of your time, which is why we encourage you to wind down after 30 minutes have passed. If the student still has questions, you can encourage them to post in the forums or schedule another meeting for the following week. It can be helpful to use the last 5 minutes or so of an appointment to set goals and action items for the student before their next appointment.
 
+Strategies for gracefully ending an appointment can be found in the [Best Practices](https://awang4.gitbooks.io/forum-mentors-encyclopedia/content/all_things_11_appointments/best_practices.html) section of this guide!
+
 In some cases, if it is determined that there was indeed a need for the appointment to go significantly over, we are happy to pay you the difference. Please reach out to your Nanodegree program’s Coach if you are uncertain as to whether your appointment qualifies for this exception.
 
 **What happens if a student does not show up for their appointment at the correct time?**
