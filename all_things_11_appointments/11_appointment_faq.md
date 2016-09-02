@@ -36,11 +36,11 @@ There will be students who show up late, or who don’t show up at all.  If a st
 > Thanks!
 
 **What should I do if I notice that a student books more than 1 appointment a week?**
-If a student books multiple appointments with you, you should feel free to cancel their appointment and send the following note in the comments:
+If a student books multiple appointments with you in a given week, direct message @annie if she is online (there is a green light next to her name) and she will cancel the extra appointments for you.
+
+If she is not online, you may cancel their appointment yourself and send the following note in the comments:
 
 > Hi [Name], Under our current policy, students are currently allotted 1 30-minute appointment per week, so I am canceling this appointment. Please email support@udacity.com if you have questions. Thanks for understanding! - [Your name]
-
-You may also send a direct message to @annie on Slack if you are uncomfortable canceling appointments yourself, and she will be happy to do so on your behalf.
 
 **What to do about impromptu meetings?**
 
