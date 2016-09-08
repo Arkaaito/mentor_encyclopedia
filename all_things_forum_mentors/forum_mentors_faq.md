@@ -22,6 +22,12 @@ Unfortunately, at this time we cannot pay Mentors for content help provided to s
 
 If a student does ask you for help, you can either ask them to post the question in the forums and answer there, or set up an appointment with you if you are a 1:1 Mentor.
 
+**What should I do when tax season comes around?**
+
+Income earned through contractor services is taxable and must be reported at the end of each tax year. Paypal will provide an 1099 for customers who have received more than $20,000 USD AND 200 or more payments ([article here](https://www.paypal.com/selfhelp/article/FAQ729)) in a given tax year.
+
+Unfortunately, Udacity cannot provide more in-depth tax advice as every individual's financial situation is different. You will need to manage taxes based on the requirements of the country you reside in. US citizens may want to consult the IRS' section on [Interest, Dividends, and Other Types of Income](https://www.irs.gov/help-resources/tools-faqs/faqs-for-individuals/frequently-asked-tax-questions-answers/interest-dividends-other-types-of-income) when getting started.
+
 **Who on the Udacity team should I contact if I have a question?**
 
 Here is the point-of-contact for each Nanodegree program; you can search for the name in Slack by pressing Ctrl+k:
