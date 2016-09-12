@@ -40,5 +40,6 @@ Here is the point-of-contact for each Nanodegree program; you can search for the
 *   **Android Developer:** Aparna
 *   **Beginning Android Development:** Louis
 *   **Machine Learning Engineer:** Jared
+*   **Predictive Analytics for Business:** Mark
 *   **Mentor Program/Logistics:** Annie, John, Miriam
 *   **Discourse Reader/Technical Issues:** Philip, Michael W
