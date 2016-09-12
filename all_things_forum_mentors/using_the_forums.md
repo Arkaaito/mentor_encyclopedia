@@ -1,6 +1,6 @@
 # Using the Forums
 ###Teaching Debugging Principles
-It’s important that students learn to debug on their own without all of the help of a Udacity coach. For this reason, we should aim not to fix code but to push students in the right direction to do it themselves. Mentors should guide students by suggesting print statements (and other debugging techniques) or by asking leading questions.
+It’s important that students learn to debug on their own without all of the help of a Udacity Mentor. For this reason, we should aim not to fix code but to push students in the right direction to do it themselves. Mentors should guide students by suggesting print statements (and other debugging techniques) or by asking leading questions.
 
 **Examples:** https://discussions.udacity.com/t/getting-dictionaries-to-work-for-the-reverse-mad-libs-project/37277/2 
 
