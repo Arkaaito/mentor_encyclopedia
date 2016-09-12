@@ -15,11 +15,6 @@ Giving students examples help them make connections between conceptual level ide
 **Examples:**
 * Use Spoiler and Details Tags
 * Use the spoiler tag ( ```[spoiler] blah blah [/spoiler]``` ) to hide answers to questions you want the student to answer. This helps cut out a future post in the case the student can’t figure out the answer, while also challenging them to think independently. If you’re hiding code, you can use the details tag. This works for both code blocks and code spans. 
-([details=some name] 
-``` 
-code 
-``` 
-[/details])
 
 **Examples:**
 https://discussions.udacity.com/t/what-is-the-logic-error-in-this-procedure/35848/8 
