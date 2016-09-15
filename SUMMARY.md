@@ -1,7 +1,7 @@
 # Summary
 
 * [Forum Mentors Encyclopedia](README.md)
-* * [Introduction to Forums](all_things_forum_mentors/all_things_forum_mentors.md)
+* [Introduction to Forums](all_things_forum_mentors/all_things_forum_mentors.md)
    * [Using the Forums](all_things_forum_mentors/using_the_forums.md)
    * [Tools](all_things_forum_mentors/tools.md)
    * [Forum Mentors FAQ](all_things_forum_mentors/forum_mentors_faq.md)
