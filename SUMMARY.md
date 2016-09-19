@@ -5,6 +5,7 @@
    * [Using the Forums](all_things_forum_mentors/using_the_forums.md)
    * [Tools](all_things_forum_mentors/tools.md)
    * [Forum Mentors FAQ](all_things_forum_mentors/forum_mentors_faq.md)
+   * Pedagogy
 * [ND Specific Guides](Forum Mentors Encyclopedia/PAND.md)
    * [Machine Learning Engineer](best_practices/mlnd.md)
    * [Predictive Analytics for Business](best_practices/pand.md)
