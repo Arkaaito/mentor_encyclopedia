@@ -140,42 +140,15 @@ I’ve calculated 4 outliers but have no clue which outlier should I remove beca
 
 I’m thinking of Cheyenne, but I heard from other students that Cheyenne should not be removed. Why is that?
 
-City
-Sales
-Population
-HH_Income
-Density
-Gillette
-Skew High
+| City | Sales | Population | HH_Income | Density |
+| -- | -- | -- | -- | -- |
+| Gillette | Skew High | - | - | - |
+| Cheyenne | Skew High | Skew High |Skew High |Skew High |
+| Rock Springs | - | Skew High | - | - |
+| Eagle Lake | - | - | - | Skew High |
 
 
-
-
-
-
-Cheyenne
-Skew High
-Skew High
-Skew High
-Skew High
-Rock Springs
-
-
-
-
-Skew High
-
-
-Eagle Lake
-
-
-
-
-
-
-Skew High
-
-Post #6
+# Post #6
 
 I’m having trouble removing the first quotation mark in my data such as:
 
