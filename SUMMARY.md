@@ -1,6 +1,7 @@
 # Summary
 
 * [Forum Mentors Encyclopedia](README.md)
+   * How to Contribute
 * [Introduction to Forums](all_things_forum_mentors/all_things_forum_mentors.md)
    * [Using the Forums](all_things_forum_mentors/using_the_forums.md)
    * [Tools](all_things_forum_mentors/tools.md)
