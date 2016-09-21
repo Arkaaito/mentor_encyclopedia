@@ -1,7 +1,7 @@
 # Summary
 
 * [Forum Mentors Encyclopedia](README.md)
-   * [Gitbook Contributions](best_practices/gitbook_contributions.md/gitbookcontributions_md.md)
+   * [Gitbook Contributions](best_practices/gitbook_contributions.md/gitbookcontributions.md)
 * [Introduction to Forums](all_things_forum_mentors/all_things_forum_mentors.md)
    * [Using the Forums](all_things_forum_mentors/using_the_forums.md)
    * [Tools](all_things_forum_mentors/tools.md)
