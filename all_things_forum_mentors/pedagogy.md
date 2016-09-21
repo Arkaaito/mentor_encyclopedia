@@ -1,20 +1,19 @@
 # Pedagogy
 
-When teaching students, we believe students benefit the most from working through a problem and not simply be given an answer. This approach helps develop deeper learning and mastery of the subject material because the approach forces students to create new mental connections between the many different components of the subject they're studying.
+When teaching students, we believe students benefit the most when they are taught how to _learn_. This means that rather than aim to solve a students immediate problem, aim to help them solve their own problems. This approach helps develop deeper learning and mastery of the subject material. The approach forces students to create new mental connections between the many different components of the subject they're studying.
 
-We strive to give students what they need in their education, not what they want. You will come across students who:
+We strive to give students what they need in their education, not what they want. Some of the more difficult challenges that you will face will be when you come across students who:
 
-Do not know how to precisely express what they need online
-
+- Do not know how to express what they need help with
 - Need help researching topics
-- Wants the direct answer
+- Want the direct answer
 - Don’t know how to start their project
 - Want to be “hand-held”
 
-Therefore, in addition to teaching concepts, we strive to teach students two additional skills:
+Therefore, in addition to teaching concepts and job specific skills, we strive to teach students two additional _learning_ skills:
 
-1. Learn how to precisely communicate the questions and problems in a written format
-2. Learn how to research online and find out answers themselves
+1. How to precisely communicate a question or problem in a written format
+2. How to research online and find out answers themselves
 
 ## Conceptual Teaching
 Student questions come in mainly three buckets:
