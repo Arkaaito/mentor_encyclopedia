@@ -4,7 +4,7 @@ When teaching students, we believe students benefit the most when they are taugh
 
 We strive to give students what they need in their education, not what they want. Some of the more difficult challenges that you will face will be when you come across students who:
 
-- Do not know how to express what they need help with
+- Do not know how to express what they need help with online
 - Need help researching topics
 - Want the direct answer
 - Don’t know how to start their project
@@ -12,8 +12,8 @@ We strive to give students what they need in their education, not what they want
 
 Therefore, in addition to teaching concepts and job specific skills, we strive to teach students two additional _learning_ skills:
 
-1. How to precisely communicate a question or problem in a written format
-2. How to research online and find out answers themselves
+1. _Learn_ how to precisely communicate a question or problem in a written format
+2. _Learn_ how to research online and find out answers themselves
 
 ## Conceptual Teaching
 Student questions come in mainly three buckets:
