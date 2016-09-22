@@ -34,12 +34,13 @@ Here is the point-of-contact for each Nanodegree program; you can search for the
 
 *   **Intro to Programming:** Kelly
 *   **Front-End Web Developer:** Anthony
-*   **Data Analyst:** Stephen or Mike Y
+*   **Data Analyst:** Mike Y
 *   **iOS Developer/Beginning iOS Development:** Kate
 *   **Full Stack Web Developer:** Adarsh, Fuzz (if Ruby-specific)
 *   **Android Developer:** Aparna
 *   **Beginning Android Development:** Louis
 *   **Machine Learning Engineer:** Jared
 *   **Predictive Analytics for Business:** Mark
+*   **Self-Driving Car** Stephen
 *   **Mentor Program/Logistics:** Annie, John, Miriam
 *   **Discourse Reader/Technical Issues:** Philip, Michael W
