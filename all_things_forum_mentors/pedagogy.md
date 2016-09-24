@@ -40,6 +40,7 @@ These questions relate to specific implementations of a concept the student has 
 
 We strive to act as guides and help students solve the problem, not directly solve it for them.
 
+**Note**: After working with the student for many posts and the student just needs a little bit more push to get to the right answer, feel free to use the spoiler tag in Discourse to hide the answer and encourage the student to push a little bit before the student should peek at the answer.
 
 You should start off with understanding what the student is trying to do and understand where the student is in his/her thinking process:
 
