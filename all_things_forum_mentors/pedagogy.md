@@ -36,9 +36,10 @@ Explaining in “why’s” and giving intuitive analogies and examples will hel
 
 ### Project and Quiz questions
 
-These questions relate to specific implementations of a concept the student has learned. You should help guide students to the right answer and explain what necessary steps to take in order to implement the task that you want the student to do. You should not share any direct workflows or code that a student can copy; try to explain the process in plain English and avoid doing the work for the student.
+These questions relate to specific implementations of a concept the student has learned. You should help guide students to the right answer and explain what necessary steps to take in order to implement the task that you want the student to do. You should not share any direct workflows or code that a student can copy and paste to directly solve their quiz or project. You are encouraged to provide code examples to illustrate the concept. It's very important to explain the process in plain English and avoid doing the work for the student. 
 
-It’s very important that we act as guides and help them solve the problem.
+We strive to act as guides and help students solve the problem, not directly solve it for them.
+
 
 You should start off with understanding what the student is trying to do and understand where the student is in his/her thinking process:
 
@@ -51,7 +52,7 @@ You should start off with understanding what the student is trying to do and und
 
 The best way to understand where the student is in this process is to ask clarifying questions and questions to challenge the student’s assumptions. This will help force students to reevaluate their process and give you clues to what prior knowledge they have about the problem.
 
-Once you know where the student lacks in understanding try to explain to students at their level and:
+Once you know where the student lacks in understanding, try to explain to students at their level and:
 
 * Use analogies
 * Use intuitive examples
