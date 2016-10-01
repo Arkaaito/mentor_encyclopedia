@@ -11,6 +11,7 @@ Teaching students Predictive Analytics in the field of Business requires a blend
 Therefore when you teach students, always think about the situation and context they are working in these projects. The data will not be perfect and will often never be enough and what matters more to business leaders is that the business analyst provide a clear direction to help guide business leaders to make their business decisions. Therefore, it’s less important to be 100% precise with the numbers and more important to look at a situation and make a recommendation of what decision businesses should make.
 
 The tone you should have when you interact with students is of a friendly guide suggesting and guiding students to think deeper about their assumptions, ultimately helping them make the decisions they need about their analysis. As guides, we cannot tell the student to do anything and we shouldn’t. We can always share our experiences, offer suggestions, challenge their assumptions, and lead students down a path where they can answer their own questions - we simply point them in the right direction.
+
 # Important Context
 If you’re coming from a data science or machine learning background, please be mindful that the curriculum is not as rigorous compared to the Data Analyst or Machine Learning Nanodegree programs!
 
@@ -20,13 +21,13 @@ Your challenge is to distill down the mathematical concepts into an intuitive se
 
 Therefore we encourage you to skim the course content in this Nanodegree here to understand how we’re using Alteryx to teach these predictive models. This will also help give you the key points in the courses to reference to when you’re instructing students. [Alteryx](https://www.alteryx.com) is an analytical software that puts an easy graphical user interface on top of R’s predictive libraries.
 
-[Problem Solving with Advanced Analytics](https://classroom.udacity.com/courses/ud976)
-[Creating an Analytical Dataset](https://classroom.udacity.com/courses/ud977)
-[Visualization with Tableau](https://classroom.udacity.com/courses/ud1006)
-[Classification Models](https://classroom.udacity.com/courses/ud978)
-[A/B Testing](https://classroom.udacity.com/courses/ud979)
-[Time-Series Analysis](https://classroom.udacity.com/courses/ud980)
-[Segmenting and Clustering](https://classroom.udacity.com/courses/ud981)
+1. [Problem Solving with Advanced Analytics](https://classroom.udacity.com/courses/ud976)
+2. [Creating an Analytical Dataset](https://classroom.udacity.com/courses/ud977)
+3. [Visualization with Tableau](https://classroom.udacity.com/courses/ud1006)
+4. [Classification Models](https://classroom.udacity.com/courses/ud978)
+5. [A/B Testing](https://classroom.udacity.com/courses/ud979)
+6. [Time-Series Analysis](https://classroom.udacity.com/courses/ud980)
+7. [Segmenting and Clustering](https://classroom.udacity.com/courses/ud981)
 
 Here is a list of concepts that students will learn throughout the Nanodegree program. If you do not see a concept listed down here such as (residuals, homoscedasticity, log-transforms, ordinary least squares, etc.), refrain from using these concepts as a requirement for them to understand and pass the project. 
 
@@ -51,14 +52,13 @@ Note: We assume students will be familiar with basic inferential and descriptive
 * A/B testing: randomized-design and matched-pairs
 * Control variables for A/B testing
 * Calculate incremental lift for A/B testing
-* T-tests
+* T-tests for A/B testing
 * Time-series forecasting using ETS and ARIMA models
 * Moving-average
 * Auto-correlation
 * Differencing
 * Stationarity
-* K-means clustering and segmentation
-* Hierarchical clustering
+* K-means, K-median, Neural Gas clustering and segmentation
 
 
 You are welcome to mention additional concepts and link students to additional resources to improve their analysis, but make sure to explain it in an intuitive manner and refrain from using math heavy terms. Please be sure to link to resources that are not too math heavy.
@@ -67,7 +67,7 @@ If you have questions on whether your comments are too advanced for the students
 
 # Forum Training
 
-This section is contains example posts for the most common questions you will face while helping students.
+This section is contains example posts for the most common questions you will face while helping Predictive Analytic students.
 
 As part of your training, please go through each of these sample posts and write a response to the student. Type up your answers and send them to bizanalyst-projects@udacity.com and our service staff will look over your answers and provide you feedback.
 
