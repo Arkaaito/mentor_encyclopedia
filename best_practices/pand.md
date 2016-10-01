@@ -81,7 +81,7 @@ Note: We assume students will be familiar with basic inferential and descriptive
 
 You are welcome to mention additional concepts and link students to additional resources to improve their analysis, but make sure to explain it in an intuitive manner and refrain from using math heavy terms. Please be sure to link to resources that are not too math heavy.
 
-If you have questions on whether your comments are too advanced for the students, please share your typed up comments in the Mentor Slack channel here: #pa-for-business for everyone to look over your response.
+If you have questions on whether your posts are too advanced for the students, please share your posts in the Mentor Slack channel here: #pa-for-business for everyone to look over your response.
 
 ## Projects
 
