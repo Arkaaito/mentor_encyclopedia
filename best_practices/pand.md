@@ -85,7 +85,7 @@ If you have questions on whether your comments are too advanced for the students
 
 ## Projects
 
-Below is a list of all projects for PAND. Email your Nanodegree Services Lead for descriptions and answer keys to the projects.
+Below is a list of all projects for PAND. Email your Nanodegree Services Lead for descriptions and answer keys to the projects to help you familiarize with these projects.
 
 | Project ID | Name | Description |
 | -- | -- | -- |
