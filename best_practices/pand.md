@@ -65,6 +65,24 @@ You are welcome to mention additional concepts and link students to additional r
 
 If you have questions on whether your comments are too advanced for the students, please share your typed up comments in the Mentor Slack channel here: #pa-for-business for everyone to look over your response.
 
+# Projects
+
+Below is a list of all projects for PAND. Email your Nanodegree Services Lead for descriptions and answer keys to the projects.
+
+| Project ID | Name | Description |
+| -- | -- | -- |
+| 0 | School Performance | Use a given linear regression equation to predict school performance |
+| 1| Predicting Catalog Demand | Build a linear regression model to predict expected profits from a catalog launch.|
+|2.1| Data Cleanup | Cleaned, blended and formatted data from different source build an analytic dataset. |
+|2.2| Recommend a City |Build a linear regression model to select the best location for the expansion of a pet store chain by using more advanced linear regression techniques (multicollinearity, stepwise regression)|
+|3| Visualizing Loan Data|Build dashboards and a story in Tableau to uncover insights in peer-to-peer loan data.|
+|4|Creditworthiness|Build a classification model to provide a recommendation on which loan applicants a retail bank should lend to.|
+|5|Analyzing a Market Test|Designed and analyzed an A/B test and provided a recommendation on whether a coffee shop chain should introduce a new menu.|
+|6|Forecasting Sales|Build a time series forecasting model to forecast demand and provided a recommendation to help match supply to demand.|
+|7|International Expansion|Build a clustering model to segment countries and determine the best candidates for store expansion.|
+|8|Business Growth| Used a linear regression, classification, and clustering model to provide recommendations to a grocery store on where and how to expand.|
+
+
 # Forum Training
 
 This section is contains example posts for the most common questions you will face while helping Predictive Analytic students.
