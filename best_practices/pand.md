@@ -29,6 +29,24 @@ Therefore we encourage you to skim the course content in this Nanodegree here to
 6. [Time-Series Analysis](https://classroom.udacity.com/courses/ud980)
 7. [Segmenting and Clustering](https://classroom.udacity.com/courses/ud981)
 
+## Alteryx Software
+
+You are not expected to be an expert Alteryx software user. The software is actually easy and very intuitive to use. 
+
+We do expect you to be familiar enough with the software to understand what the software does and what the software is about. Please take this free course:
+
+[Creating an Analytical Dataset](https://classroom.udacity.com/courses/ud977)
+
+and download the 14-day trial to play around with Alteryx. Please note that Alteryx **is only compatible with the Windows OS**
+
+### Alterxy Expectations
+There will be occassional questions that will revolve around implementation of a certain function in Alteryx such as the [`FindString` function](https://help.alteryx.com/current/index.htm#Reference/Functions.htm#String). You are encouraged to help the student by pointing them to the proper online documentation for Alteryx here: https://help.alteryx.com/current/index.htm
+
+Students may have questions that relate to a predictive tool such as ARIMA. Alteryx's predictive tools actually use R's implementations and you can lookup the R documentation and help explain certain options and concepts related to the R tool. Feel free to post in the Slack community to get help on which R tool matches with Alteryx's predictive tool.
+
+We expect students will have the most issues with concepts rather than using the Alteryx software because the course will show students how to use the necessary functions needed to run their predictive models.
+
+## Concepts
 Here is a list of concepts that students will learn throughout the Nanodegree program. If you do not see a concept listed down here such as (residuals, homoscedasticity, log-transforms, ordinary least squares, etc.), refrain from using these concepts as a requirement for them to understand and pass the project. 
 
 Note: We assume students will be familiar with basic inferential and descriptive statistics.
@@ -65,7 +83,7 @@ You are welcome to mention additional concepts and link students to additional r
 
 If you have questions on whether your comments are too advanced for the students, please share your typed up comments in the Mentor Slack channel here: #pa-for-business for everyone to look over your response.
 
-# Projects
+## Projects
 
 Below is a list of all projects for PAND. Email your Nanodegree Services Lead for descriptions and answer keys to the projects.
 
