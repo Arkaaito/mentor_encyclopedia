@@ -98,7 +98,7 @@ Below is a list of all projects for PAND. Email your Nanodegree Services Lead fo
 |5|Analyzing a Market Test|Designed and analyzed an A/B test and provided a recommendation on whether a coffee shop chain should introduce a new menu.|
 |6|Forecasting Sales|Build a time series forecasting model to forecast demand and provided a recommendation to help match supply to demand.|
 |7|International Expansion|Build a clustering model to segment countries and determine the best candidates for store expansion.|
-|8|Business Growth| Used a linear regression, classification, and clustering model to provide recommendations to a grocery store on where and how to expand.|
+|8|Business Growth| Use linear regression, classification, and clustering models to provide recommendations to a grocery store on where and how to expand.|
 
 
 # Forum Training
