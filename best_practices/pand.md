@@ -37,7 +37,7 @@ We do expect you to be familiar enough with the software to understand what the 
 
 [Creating an Analytical Dataset](https://classroom.udacity.com/courses/ud977)
 
-and download the 14-day trial to play around with Alteryx. Please note that Alteryx **is only compatible with the Windows OS**
+and download the 14-day trial to play around with Alteryx. Please note that Alteryx **is only compatible with the Windows Operating System**
 
 ### Alterxy Expectations
 There will be occassional questions that will revolve around implementation of a certain function in Alteryx such as the [`FindString` function](https://help.alteryx.com/current/index.htm#Reference/Functions.htm#String). You are encouraged to help the student by pointing them to the proper online documentation for Alteryx here: https://help.alteryx.com/current/index.htm
