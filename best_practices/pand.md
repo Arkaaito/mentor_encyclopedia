@@ -39,7 +39,7 @@ We do expect you to be familiar enough with the software to understand what the 
 
 and download the 14-day trial to play around with Alteryx. Please note that Alteryx **is only compatible with the Windows Operating System**
 
-### Alterxy Expectations
+### Alterx Expectations
 There will be occassional questions that will revolve around implementation of a certain function in Alteryx such as the [`FindString` function](https://help.alteryx.com/current/index.htm#Reference/Functions.htm#String). You are encouraged to help the student by pointing them to the proper online documentation for Alteryx here: https://help.alteryx.com/current/index.htm
 
 Students may have questions that relate to a predictive tool such as ARIMA. Alteryx's predictive tools actually use R's implementations and you can lookup the R documentation and help explain certain options and concepts related to the R tool. Feel free to post in the Mentor Slack community to get help on which R tool matches with Alteryx's predictive tool.
@@ -47,7 +47,7 @@ Students may have questions that relate to a predictive tool such as ARIMA. Alte
 We expect students will have the most issues with concepts rather than using the Alteryx software because the course will show students how to use the necessary functions needed to run their predictive models.
 
 ## Concepts
-Here is a list of concepts that students will learn throughout the Nanodegree program. If you do not see a concept listed down here such as (residuals, homoscedasticity, log-transforms, ordinary least squares, etc.), refrain from using these concepts as a requirement for them to understand and pass the project. 
+Here is a list of concepts that students will learn throughout the Nanodegree program. If you do not see a concept listed down here such as (residuals, homoscedasticity, log-transforms, ordinary least squares, etc.), refrain from using these concepts as a requirement for them to understand your forum posts.
 
 Note: We assume students will be familiar with basic inferential and descriptive statistics.
 
