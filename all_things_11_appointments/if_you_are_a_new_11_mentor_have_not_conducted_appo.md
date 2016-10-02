@@ -12,11 +12,14 @@ If you see events toggled off that you think should be on, please DM me and I wi
     **Example:** If you do not want to take appointments between the hours of 8PM and 10AM in your timezone, create an event and label it something like ”Busy” or “Not taking appointments” for yourself. Calendly will know to mark you as Unavailable during those times.
 
     **Tip:** Most calendar apps have the option to set recurring events. If you are afraid that you will forget to create a new event to account for your unavailability hours, make use of this feature!
+    
+    **Tip:** We recommend you set a minimum of 24 hours notice before the appointment. You can set the minimum scheduling notice underneath the "More Availability Options" when you set up your event. Otherwise students will be able to schedule an appointment with you **right** before an event without any chance to prepare for your meeting!
 
     **Tip:** We have set Calendly to allow users to schedule appointments up to 14 days in advance, but if you are going on vacation or otherwise won’t be available for a day or more, you can mark yourself as unavailable as far into the future as needed.
 
     **Tip:** More information can be found on this Calendly help article: [I’m unavailable when I should be free](http://help.calendly.com/article/114-im-unavailable-when-i-should-be-free)
-
+    
+     
 3.  Message Annie on the Forum Mentors Slack team directly so she can add you to the correct team.
 4.  Once you’ve been added to the team, click **Event Types** at the top of your Calendly Dashboard. You should see a Team for each Nanodegree program you’ll be Mentoring for. Click on the Team and once it expands, you should see all the different projects available for that Nanodegree program.
 5.  Set which projects you are ready to conduct 1:1 appointments for by following these instructions:
