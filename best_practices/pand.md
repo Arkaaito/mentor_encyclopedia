@@ -105,7 +105,7 @@ Below is a list of all projects for PAND. Email your Nanodegree Services Lead fo
 
 This section is contains example posts for the most common questions you will face while helping Predictive Analytic students.
 
-As part of your training, please go through each of these sample posts and write a response to the student. Type up your answers and send them to bizanalyst-projects@udacity.com and our service staff will look over your answers and provide you feedback.
+As part of your training, please go through each of these sample posts and write a response to the student. Type up your answers and send them to bizanalyst-project@udacity.com and our service staff will look over your answers and provide you feedback.
 
 **Notes:**
 
